@@ -1,0 +1,11 @@
+request:
+  url: https://www.v2ex.com/api/nodes/show.json
+  payload:
+    - name: python
+      id: 90
+    - name: java
+      id: 63
+    - name: php
+      id: 62888
+    - name: js
+      id: 146

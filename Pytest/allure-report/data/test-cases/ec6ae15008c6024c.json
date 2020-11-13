@@ -1,0 +1,147 @@
+{
+  "uid" : "ec6ae15008c6024c",
+  "name" : "test_node[lang2]",
+  "fullName" : "test_v2ex_api1.TestV2exApi#test_node",
+  "historyId" : "4b67dc64ac926ff50f0f9ce02bf7f1ca",
+  "time" : {
+    "start" : 1605240015562,
+    "stop" : 1605240016288,
+    "duration" : 726
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <test_v2ex_api1.TestV2exApi object at 0x10b629400>\nlang = {'name': 'php'}\n\n    def test_node(self,lang):\n    \n        url = self.yamlData['url'] + \"?name=%s\"%(lang['name'])\n    \n        r = requests.get(url).json()\n        assert r['name'] == lang['name']\n>       assert 0\nE       assert 0\n\ntest_v2ex_api1.py:36: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "lang",
+    "time" : {
+      "start" : 1605240015561,
+      "stop" : 1605240015561,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_v2ex_api1"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestV2exApi"
+  }, {
+    "name" : "host",
+    "value" : "test"
+  }, {
+    "name" : "thread",
+    "value" : "6183-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_v2ex_api1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "lang",
+    "value" : "{'name': 'php'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "29e88616f4576ad0",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239892415,
+        "stop" : 1605239893180,
+        "duration" : 765
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 7,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 7
+      },
+      "items" : [ {
+        "uid" : "5c369d981e9601e6",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/20/allure/#testresult/5c369d981e9601e6",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 0",
+        "time" : {
+          "start" : 1605239892415,
+          "stop" : 1605239893180,
+          "duration" : 765
+        }
+      }, {
+        "uid" : "177c2fe059019528",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/18/allure/#testresult/177c2fe059019528",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 0",
+        "time" : {
+          "start" : 1605239452214,
+          "stop" : 1605239452941,
+          "duration" : 727
+        }
+      }, {
+        "uid" : "7775e3df6d64bb5b",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/17/allure/#testresult/7775e3df6d64bb5b",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 0",
+        "time" : {
+          "start" : 1605239452214,
+          "stop" : 1605239452941,
+          "duration" : 727
+        }
+      }, {
+        "uid" : "6a80c4a51a22c8a4",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/16/allure/#testresult/6a80c4a51a22c8a4",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 0",
+        "time" : {
+          "start" : 1605239452214,
+          "stop" : 1605239452941,
+          "duration" : 727
+        }
+      }, {
+        "uid" : "f1fa477cdc8e0d87",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/f1fa477cdc8e0d87",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert 0",
+        "time" : {
+          "start" : 1605239452214,
+          "stop" : 1605239452941,
+          "duration" : 727
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ec6ae15008c6024c.json",
+  "parameterValues" : [ "{'name': 'php'}" ]
+}

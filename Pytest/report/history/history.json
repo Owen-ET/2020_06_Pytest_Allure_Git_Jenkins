@@ -1,0 +1,947 @@
+{
+  "435e980ead1ec3a1ab298a851cfcc707" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "dadb91920f3eba9a",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/dadb91920f3eba9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342552,
+        "stop" : 1605239342553,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "292c51debbf48093",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/292c51debbf48093",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342552,
+        "stop" : 1605239342553,
+        "duration" : 1
+      }
+    } ]
+  },
+  "68b90073fdd1eba885d5a6277b97c65c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c6a250700edb2fa4",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/c6a250700edb2fa4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342711,
+        "stop" : 1605239342711,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2100252ea9b42f67",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/2100252ea9b42f67",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342711,
+        "stop" : 1605239342711,
+        "duration" : 0
+      }
+    } ]
+  },
+  "64e0e51cba8992a2a81ed92e56a91229" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e7ddd194db9c2065",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/e7ddd194db9c2065",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342644,
+        "stop" : 1605239342644,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bfcdcb02c384c908",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/bfcdcb02c384c908",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342644,
+        "stop" : 1605239342644,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c3d178420c197433d2fa66d5315d873f" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 13
+    },
+    "items" : [ {
+      "uid" : "c767554dbbdd017",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/20/allure/#testresult/c767554dbbdd017",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239893882,
+        "stop" : 1605239894570,
+        "duration" : 688
+      }
+    }, {
+      "uid" : "f6da1bdcf0997f7",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/18/allure/#testresult/f6da1bdcf0997f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239453734,
+        "stop" : 1605239454428,
+        "duration" : 694
+      }
+    }, {
+      "uid" : "b9da71bef1faac66",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/17/allure/#testresult/b9da71bef1faac66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239453734,
+        "stop" : 1605239454428,
+        "duration" : 694
+      }
+    }, {
+      "uid" : "9d3c8566f9d472f0",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/16/allure/#testresult/9d3c8566f9d472f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239453734,
+        "stop" : 1605239454428,
+        "duration" : 694
+      }
+    }, {
+      "uid" : "75cfeae74f1a40ad",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/75cfeae74f1a40ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239453734,
+        "stop" : 1605239454428,
+        "duration" : 694
+      }
+    } ]
+  },
+  "dc53bafbd56163f2a1144bede4156fb8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "fcf13601781e867e",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/fcf13601781e867e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342561,
+        "stop" : 1605239342561,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d4ac7ba1e12f750f",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/d4ac7ba1e12f750f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342561,
+        "stop" : 1605239342561,
+        "duration" : 0
+      }
+    } ]
+  },
+  "37e0c1db135afec380d9f79eb6446de4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "36212722bcac8864",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/36212722bcac8864",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342564,
+        "stop" : 1605239342564,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "c1c84feac8c6bfe6",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/c1c84feac8c6bfe6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342564,
+        "stop" : 1605239342564,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d3f353bce37825eafe66f3e825c7061d" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b0b1525f5d435f01",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/b0b1525f5d435f01",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 3.0 == 1\n +  where 3.0 = eval('9/3')",
+      "time" : {
+        "start" : 1605239342587,
+        "stop" : 1605239342588,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "8ef125576f2810b1",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/8ef125576f2810b1",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 3.0 == 1\n +  where 3.0 = eval('9/3')",
+      "time" : {
+        "start" : 1605239342587,
+        "stop" : 1605239342588,
+        "duration" : 1
+      }
+    } ]
+  },
+  "69ec545c2daf196213f6fc31813068a5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "491a0deb6e0def4b",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/491a0deb6e0def4b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342555,
+        "stop" : 1605239342556,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "41855b1d1d8b29d2",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/41855b1d1d8b29d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342555,
+        "stop" : 1605239342556,
+        "duration" : 1
+      }
+    } ]
+  },
+  "f23d02bed94af7df396819e3e01ff4dd" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 13
+    },
+    "items" : [ {
+      "uid" : "63343702af384055",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/20/allure/#testresult/63343702af384055",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239894573,
+        "stop" : 1605239895283,
+        "duration" : 710
+      }
+    }, {
+      "uid" : "a520133f9d0c7063",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/18/allure/#testresult/a520133f9d0c7063",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239454431,
+        "stop" : 1605239455134,
+        "duration" : 703
+      }
+    }, {
+      "uid" : "1c7caef1b9aaaa36",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/17/allure/#testresult/1c7caef1b9aaaa36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239454431,
+        "stop" : 1605239455134,
+        "duration" : 703
+      }
+    }, {
+      "uid" : "a41def23f106fe55",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/16/allure/#testresult/a41def23f106fe55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239454431,
+        "stop" : 1605239455134,
+        "duration" : 703
+      }
+    }, {
+      "uid" : "7c31183483015a6b",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/7c31183483015a6b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239454431,
+        "stop" : 1605239455134,
+        "duration" : 703
+      }
+    } ]
+  },
+  "df163ef9199d26f6aba95622427ecbfa" : {
+    "statistic" : {
+      "failed" : 6,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "162df82a55ebbfae",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/20/allure/#testresult/162df82a55ebbfae",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239893185,
+        "stop" : 1605239893876,
+        "duration" : 691
+      }
+    }, {
+      "uid" : "dc74c8a5e61d3990",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/18/allure/#testresult/dc74c8a5e61d3990",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239452995,
+        "stop" : 1605239453728,
+        "duration" : 733
+      }
+    }, {
+      "uid" : "8cdc297ef8565825",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/17/allure/#testresult/8cdc297ef8565825",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239452995,
+        "stop" : 1605239453728,
+        "duration" : 733
+      }
+    }, {
+      "uid" : "9b97b0d3408f200a",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/16/allure/#testresult/9b97b0d3408f200a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239452995,
+        "stop" : 1605239453728,
+        "duration" : 733
+      }
+    }, {
+      "uid" : "cb23fbe398162672",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/cb23fbe398162672",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239452995,
+        "stop" : 1605239453728,
+        "duration" : 733
+      }
+    } ]
+  },
+  "48ce0d51947de581f3cb711565bd6c3d" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 11,
+      "unknown" : 0,
+      "total" : 13
+    },
+    "items" : [ {
+      "uid" : "f9128f94bf5ccc8a",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/20/allure/#testresult/f9128f94bf5ccc8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239896030,
+        "stop" : 1605239896745,
+        "duration" : 715
+      }
+    }, {
+      "uid" : "af832f1ac590548b",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/18/allure/#testresult/af832f1ac590548b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239455863,
+        "stop" : 1605239456604,
+        "duration" : 741
+      }
+    }, {
+      "uid" : "ab92e34eb497b714",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/17/allure/#testresult/ab92e34eb497b714",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239455863,
+        "stop" : 1605239456604,
+        "duration" : 741
+      }
+    }, {
+      "uid" : "e84398dc4e9721f",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/16/allure/#testresult/e84398dc4e9721f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239455863,
+        "stop" : 1605239456604,
+        "duration" : 741
+      }
+    }, {
+      "uid" : "236e2da3558cfd63",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/236e2da3558cfd63",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239455863,
+        "stop" : 1605239456604,
+        "duration" : 741
+      }
+    } ]
+  },
+  "02a2aabecc1ad3e100c68ffc5bafb456" : {
+    "statistic" : {
+      "failed" : 6,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "ea4db2e668450844",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/20/allure/#testresult/ea4db2e668450844",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239891682,
+        "stop" : 1605239892410,
+        "duration" : 728
+      }
+    }, {
+      "uid" : "b0ef9c8d05faf00d",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/18/allure/#testresult/b0ef9c8d05faf00d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239451488,
+        "stop" : 1605239452210,
+        "duration" : 722
+      }
+    }, {
+      "uid" : "8da62b796e65ce52",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/17/allure/#testresult/8da62b796e65ce52",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239451488,
+        "stop" : 1605239452210,
+        "duration" : 722
+      }
+    }, {
+      "uid" : "1e49e4a116565872",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/16/allure/#testresult/1e49e4a116565872",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239451488,
+        "stop" : 1605239452210,
+        "duration" : 722
+      }
+    }, {
+      "uid" : "3c4961760dbf9777",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/3c4961760dbf9777",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239451488,
+        "stop" : 1605239452210,
+        "duration" : 722
+      }
+    } ]
+  },
+  "4b67dc64ac926ff50f0f9ce02bf7f1ca" : {
+    "statistic" : {
+      "failed" : 6,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "5c369d981e9601e6",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/20/allure/#testresult/5c369d981e9601e6",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239892415,
+        "stop" : 1605239893180,
+        "duration" : 765
+      }
+    }, {
+      "uid" : "177c2fe059019528",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/18/allure/#testresult/177c2fe059019528",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239452214,
+        "stop" : 1605239452941,
+        "duration" : 727
+      }
+    }, {
+      "uid" : "7775e3df6d64bb5b",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/17/allure/#testresult/7775e3df6d64bb5b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239452214,
+        "stop" : 1605239452941,
+        "duration" : 727
+      }
+    }, {
+      "uid" : "6a80c4a51a22c8a4",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/16/allure/#testresult/6a80c4a51a22c8a4",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239452214,
+        "stop" : 1605239452941,
+        "duration" : 727
+      }
+    }, {
+      "uid" : "f1fa477cdc8e0d87",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/f1fa477cdc8e0d87",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239452214,
+        "stop" : 1605239452941,
+        "duration" : 727
+      }
+    } ]
+  },
+  "836fcc9233e3cac082bea31586ff993f" : {
+    "statistic" : {
+      "failed" : 10,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 13
+    },
+    "items" : [ {
+      "uid" : "dc4b4fd5074eea1a",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/20/allure/#testresult/dc4b4fd5074eea1a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 62 == 62888",
+      "time" : {
+        "start" : 1605239895286,
+        "stop" : 1605239896020,
+        "duration" : 734
+      }
+    }, {
+      "uid" : "2be71b3dfd016af3",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/18/allure/#testresult/2be71b3dfd016af3",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 62 == 62888",
+      "time" : {
+        "start" : 1605239455138,
+        "stop" : 1605239455854,
+        "duration" : 716
+      }
+    }, {
+      "uid" : "e2498a4190252e74",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/17/allure/#testresult/e2498a4190252e74",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 62 == 62888",
+      "time" : {
+        "start" : 1605239455138,
+        "stop" : 1605239455854,
+        "duration" : 716
+      }
+    }, {
+      "uid" : "6bbeaffc612f6c05",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/16/allure/#testresult/6bbeaffc612f6c05",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 62 == 62888",
+      "time" : {
+        "start" : 1605239455138,
+        "stop" : 1605239455854,
+        "duration" : 716
+      }
+    }, {
+      "uid" : "4b824aa2bf2cf313",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/4b824aa2bf2cf313",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 62 == 62888",
+      "time" : {
+        "start" : 1605239455138,
+        "stop" : 1605239455854,
+        "duration" : 716
+      }
+    } ]
+  },
+  "75d8c2c698648ae4b0e57854e90dea65" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b281f3e505f9414b",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/b281f3e505f9414b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342646,
+        "stop" : 1605239342646,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cfd9d3e14c8c14cb",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/cfd9d3e14c8c14cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342646,
+        "stop" : 1605239342646,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8e10afb961886c3cc3b81e0512325b41" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c672fa3f39767412",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/c672fa3f39767412",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: user:tom is weak password\nassert 'password123' != 'password123'",
+      "time" : {
+        "start" : 1605239342701,
+        "stop" : 1605239342701,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bf64a55cc10b58a6",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/bf64a55cc10b58a6",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: user:tom is weak password\nassert 'password123' != 'password123'",
+      "time" : {
+        "start" : 1605239342701,
+        "stop" : 1605239342701,
+        "duration" : 0
+      }
+    } ]
+  },
+  "b5abbdf9c424b3647c12534cede86d1c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "24f221c052c521dc",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/24f221c052c521dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342558,
+        "stop" : 1605239342559,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cec42d15cedf6f88",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/cec42d15cedf6f88",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342558,
+        "stop" : 1605239342559,
+        "duration" : 1
+      }
+    } ]
+  },
+  "4bd84edc1993f337029824f204be30e2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "9ad9392490d66a85",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/9ad9392490d66a85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342698,
+        "stop" : 1605239342698,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "14cb471b07177e12",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/14cb471b07177e12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239342698,
+        "stop" : 1605239342698,
+        "duration" : 0
+      }
+    } ]
+  },
+  "627be5a18f22004a8f720164576afda2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    },
+    "items" : [ {
+      "uid" : "f2ab712abdef5e61",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/20/allure/#testresult/f2ab712abdef5e61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239889886,
+        "stop" : 1605239890843,
+        "duration" : 957
+      }
+    }, {
+      "uid" : "62b08b28cedcde1a",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/19/allure/#testresult/62b08b28cedcde1a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239826057,
+        "stop" : 1605239826894,
+        "duration" : 837
+      }
+    }, {
+      "uid" : "140c67a3d77b516f",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/18/allure/#testresult/140c67a3d77b516f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239788399,
+        "stop" : 1605239789289,
+        "duration" : 890
+      }
+    }, {
+      "uid" : "c4787c881add665a",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/17/allure/#testresult/c4787c881add665a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239746374,
+        "stop" : 1605239747930,
+        "duration" : 1556
+      }
+    }, {
+      "uid" : "48026bfa3b4d9670",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/16/allure/#testresult/48026bfa3b4d9670",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239675270,
+        "stop" : 1605239676256,
+        "duration" : 986
+      }
+    } ]
+  },
+  "f69a20f79821dbf60a8bbf2f7748d167" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "679843971dff7d9d",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/679843971dff7d9d",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: user:jack passwd is not 6\nassert 5 >= 6\n +  where 5 = len('Ilove')",
+      "time" : {
+        "start" : 1605239342688,
+        "stop" : 1605239342688,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "83815532d66cfc09",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/83815532d66cfc09",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: user:jack passwd is not 6\nassert 5 >= 6\n +  where 5 = len('Ilove')",
+      "time" : {
+        "start" : 1605239342688,
+        "stop" : 1605239342688,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8a29c1aff253280b20b83d0bed833165" : {
+    "statistic" : {
+      "failed" : 6,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 6
+    },
+    "items" : [ {
+      "uid" : "a330e01c5819fd11",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/20/allure/#testresult/a330e01c5819fd11",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239890846,
+        "stop" : 1605239891564,
+        "duration" : 718
+      }
+    }, {
+      "uid" : "28c562715f1dd979",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/18/allure/#testresult/28c562715f1dd979",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239450710,
+        "stop" : 1605239451423,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "b6fa93f780d0cba5",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/17/allure/#testresult/b6fa93f780d0cba5",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239450710,
+        "stop" : 1605239451423,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "a58004f8745d5a3",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/16/allure/#testresult/a58004f8745d5a3",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239450710,
+        "stop" : 1605239451423,
+        "duration" : 713
+      }
+    }, {
+      "uid" : "6304d8bdca0a6d38",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/6304d8bdca0a6d38",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 0",
+      "time" : {
+        "start" : 1605239450710,
+        "stop" : 1605239451423,
+        "duration" : 713
+      }
+    } ]
+  },
+  "4568286f6f1d37c8e39d21e6d08a3f53" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "7fb8578681b64f97",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/7fb8578681b64f97",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: user:mike is weak password\nassert 'password' != 'password'",
+      "time" : {
+        "start" : 1605239342706,
+        "stop" : 1605239342706,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7e524d41a554389b",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/7e524d41a554389b",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: user:mike is weak password\nassert 'password' != 'password'",
+      "time" : {
+        "start" : 1605239342706,
+        "stop" : 1605239342706,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dfafb242523c660052473f9d5ca95e9b" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "13a58f10293ae079",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/13a58f10293ae079",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: user tom has a weak password\nassert 'password123' != 'password123'",
+      "time" : {
+        "start" : 1605239342682,
+        "stop" : 1605239342682,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "cb767dcdc823f4d4",
+      "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/14/allure/#testresult/cb767dcdc823f4d4",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: user tom has a weak password\nassert 'password123' != 'password123'",
+      "time" : {
+        "start" : 1605239342682,
+        "stop" : 1605239342682,
+        "duration" : 0
+      }
+    } ]
+  }
+}

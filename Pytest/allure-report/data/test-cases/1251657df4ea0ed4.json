@@ -1,0 +1,135 @@
+{
+  "uid" : "1251657df4ea0ed4",
+  "name" : "test_node[lang0]",
+  "fullName" : "test_v2ex_api2.TestV2exApi#test_node",
+  "historyId" : "c3d178420c197433d2fa66d5315d873f",
+  "time" : {
+    "start" : 1605240017035,
+    "stop" : 1605240017756,
+    "duration" : 721
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "lang",
+    "time" : {
+      "start" : 1605240017035,
+      "stop" : 1605240017035,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_v2ex_api2"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestV2exApi"
+  }, {
+    "name" : "host",
+    "value" : "test"
+  }, {
+    "name" : "thread",
+    "value" : "6183-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_v2ex_api2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "lang",
+    "value" : "{'name': 'python', 'id': 90}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "85d441d0bc004bca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239893882,
+        "stop" : 1605239894570,
+        "duration" : 688
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 12,
+        "unknown" : 0,
+        "total" : 14
+      },
+      "items" : [ {
+        "uid" : "c767554dbbdd017",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/20/allure/#testresult/c767554dbbdd017",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605239893882,
+          "stop" : 1605239894570,
+          "duration" : 688
+        }
+      }, {
+        "uid" : "f6da1bdcf0997f7",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/18/allure/#testresult/f6da1bdcf0997f7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605239453734,
+          "stop" : 1605239454428,
+          "duration" : 694
+        }
+      }, {
+        "uid" : "b9da71bef1faac66",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/17/allure/#testresult/b9da71bef1faac66",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605239453734,
+          "stop" : 1605239454428,
+          "duration" : 694
+        }
+      }, {
+        "uid" : "9d3c8566f9d472f0",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/16/allure/#testresult/9d3c8566f9d472f0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605239453734,
+          "stop" : 1605239454428,
+          "duration" : 694
+        }
+      }, {
+        "uid" : "75cfeae74f1a40ad",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/15/allure/#testresult/75cfeae74f1a40ad",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605239453734,
+          "stop" : 1605239454428,
+          "duration" : 694
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1251657df4ea0ed4.json",
+  "parameterValues" : [ "{'name': 'python', 'id': 90}" ]
+}

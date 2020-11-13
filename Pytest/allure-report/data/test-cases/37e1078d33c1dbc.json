@@ -1,0 +1,125 @@
+{
+  "uid" : "37e1078d33c1dbc",
+  "name" : "test_node",
+  "fullName" : "test_v2ex_api.TestV2exApi#test_node",
+  "historyId" : "627be5a18f22004a8f720164576afda2",
+  "time" : {
+    "start" : 1605240012368,
+    "stop" : 1605240013115,
+    "duration" : 747
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_v2ex_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestV2exApi"
+  }, {
+    "name" : "host",
+    "value" : "test"
+  }, {
+    "name" : "thread",
+    "value" : "6183-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_v2ex_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6a42e1f53566113d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239889886,
+        "stop" : 1605239890843,
+        "duration" : 957
+      }
+    }, {
+      "uid" : "e25c49f5193943a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605239826057,
+        "stop" : 1605239826894,
+        "duration" : 837
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 8,
+        "unknown" : 0,
+        "total" : 8
+      },
+      "items" : [ {
+        "uid" : "f2ab712abdef5e61",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/20/allure/#testresult/f2ab712abdef5e61",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605239889886,
+          "stop" : 1605239890843,
+          "duration" : 957
+        }
+      }, {
+        "uid" : "62b08b28cedcde1a",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/19/allure/#testresult/62b08b28cedcde1a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605239826057,
+          "stop" : 1605239826894,
+          "duration" : 837
+        }
+      }, {
+        "uid" : "140c67a3d77b516f",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/18/allure/#testresult/140c67a3d77b516f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605239788399,
+          "stop" : 1605239789289,
+          "duration" : 890
+        }
+      }, {
+        "uid" : "c4787c881add665a",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/17/allure/#testresult/c4787c881add665a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605239746374,
+          "stop" : 1605239747930,
+          "duration" : 1556
+        }
+      }, {
+        "uid" : "48026bfa3b4d9670",
+        "reportUrl" : "http://localhost:8080/job/Pytest+Allure+Jenkins%E9%9B%86%E6%88%90/16/allure/#testresult/48026bfa3b4d9670",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605239675270,
+          "stop" : 1605239676256,
+          "duration" : 986
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "37e1078d33c1dbc.json",
+  "parameterValues" : [ ]
+}

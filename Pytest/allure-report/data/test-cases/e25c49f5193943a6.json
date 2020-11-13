@@ -1,0 +1,51 @@
+{
+  "uid" : "e25c49f5193943a6",
+  "name" : "test_node",
+  "fullName" : "test_v2ex_api.TestV2exApi#test_node",
+  "historyId" : "627be5a18f22004a8f720164576afda2",
+  "time" : {
+    "start" : 1605239826057,
+    "stop" : 1605239826894,
+    "duration" : 837
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_v2ex_api"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestV2exApi"
+  }, {
+    "name" : "host",
+    "value" : "test"
+  }, {
+    "name" : "thread",
+    "value" : "6101-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_v2ex_api"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e25c49f5193943a6.json",
+  "parameterValues" : [ ]
+}

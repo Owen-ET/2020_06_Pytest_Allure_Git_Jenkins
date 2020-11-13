@@ -1,0 +1,71 @@
+{
+  "uid" : "34b16585e7d1329e",
+  "name" : "test_node[lang2]",
+  "fullName" : "test_v2ex_api2.TestV2exApi#test_node",
+  "historyId" : "836fcc9233e3cac082bea31586ff993f",
+  "time" : {
+    "start" : 1605239895286,
+    "stop" : 1605239896020,
+    "duration" : 734
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 62 == 62888",
+  "statusTrace" : "self = <test_v2ex_api2.TestV2exApi object at 0x10ec663c8>\nlang = {'id': 62888, 'name': 'php'}\n\n    def test_node(self,lang):\n    \n        url = self.yamlData['url'] + \"?name=%s\"%(lang['name'])\n    \n        r = requests.get(url).json()\n        assert r['name'] == lang['name']\n>       assert r['id'] == lang['id']\nE       assert 62 == 62888\n\ntest_v2ex_api2.py:34: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "lang",
+    "time" : {
+      "start" : 1605239895285,
+      "stop" : 1605239895285,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_v2ex_api2"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestV2exApi"
+  }, {
+    "name" : "host",
+    "value" : "test"
+  }, {
+    "name" : "thread",
+    "value" : "6148-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_v2ex_api2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "lang",
+    "value" : "{'name': 'php', 'id': 62888}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "34b16585e7d1329e.json",
+  "parameterValues" : [ "{'name': 'php', 'id': 62888}" ]
+}

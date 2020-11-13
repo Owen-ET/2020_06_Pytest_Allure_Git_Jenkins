@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="4" hostname="test" name="pytest" skipped="0" tests="4" time="4.486" timestamp="2020-11-12T16:10:35.186936"><testcase classname="test_v2ex_api2.TestV2exApi" file="test_v2ex_api2.py" line="27" name="test_node[lang0]" time="0.687"><failure message="assert 0">self = &lt;test_v2ex_api2.TestV2exApi object at 0x108ba7da0&gt;, lang = {&apos;id&apos;: 90, &apos;name&apos;: &apos;python&apos;}
+
+    def test_node(self,lang):
+    
+        url = self.yamlData[&apos;url&apos;] + &quot;?name=%s&quot;%(lang[&apos;name&apos;])
+    
+        r = requests.get(url).json()
+        assert r[&apos;name&apos;] == lang[&apos;name&apos;]
+        assert r[&apos;id&apos;] == lang[&apos;id&apos;]
+&gt;       assert 0
+E       assert 0
+
+test_v2ex_api2.py:35: AssertionError</failure></testcase><testcase classname="test_v2ex_api2.TestV2exApi" file="test_v2ex_api2.py" line="27" name="test_node[lang1]" time="0.614"><failure message="assert 0">self = &lt;test_v2ex_api2.TestV2exApi object at 0x108be6a20&gt;, lang = {&apos;id&apos;: 63, &apos;name&apos;: &apos;java&apos;}
+
+    def test_node(self,lang):
+    
+        url = self.yamlData[&apos;url&apos;] + &quot;?name=%s&quot;%(lang[&apos;name&apos;])
+    
+        r = requests.get(url).json()
+        assert r[&apos;name&apos;] == lang[&apos;name&apos;]
+        assert r[&apos;id&apos;] == lang[&apos;id&apos;]
+&gt;       assert 0
+E       assert 0
+
+test_v2ex_api2.py:35: AssertionError</failure></testcase><testcase classname="test_v2ex_api2.TestV2exApi" file="test_v2ex_api2.py" line="27" name="test_node[lang2]" time="0.611"><failure message="assert 0">self = &lt;test_v2ex_api2.TestV2exApi object at 0x108c29198&gt;, lang = {&apos;id&apos;: 62, &apos;name&apos;: &apos;php&apos;}
+
+    def test_node(self,lang):
+    
+        url = self.yamlData[&apos;url&apos;] + &quot;?name=%s&quot;%(lang[&apos;name&apos;])
+    
+        r = requests.get(url).json()
+        assert r[&apos;name&apos;] == lang[&apos;name&apos;]
+        assert r[&apos;id&apos;] == lang[&apos;id&apos;]
+&gt;       assert 0
+E       assert 0
+
+test_v2ex_api2.py:35: AssertionError</failure></testcase><testcase classname="test_v2ex_api2.TestV2exApi" file="test_v2ex_api2.py" line="27" name="test_node[lang3]" time="0.615"><failure message="assert 0">self = &lt;test_v2ex_api2.TestV2exApi object at 0x108c29b38&gt;, lang = {&apos;id&apos;: 146, &apos;name&apos;: &apos;js&apos;}
+
+    def test_node(self,lang):
+    
+        url = self.yamlData[&apos;url&apos;] + &quot;?name=%s&quot;%(lang[&apos;name&apos;])
+    
+        r = requests.get(url).json()
+        assert r[&apos;name&apos;] == lang[&apos;name&apos;]
+        assert r[&apos;id&apos;] == lang[&apos;id&apos;]
+&gt;       assert 0
+E       assert 0
+
+test_v2ex_api2.py:35: AssertionError</failure></testcase></testsuite></testsuites>

@@ -1,0 +1,4 @@
+request:
+  url: https://www.v2ex.com/api/nodes/show.json
+  payload:
+    name: python
